@@ -11,3 +11,5 @@ The aim of this repository is to highlight the fact that a Django project, when 
 4. Switch to the project directory: `cd minimal-django`
 5. Run the development server: `python minimal.py runserver`
 6. Open a browser to `http://127.0.0.1:8000/`
+
+# Tech Stack :- python,HTML
