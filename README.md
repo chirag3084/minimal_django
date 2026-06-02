@@ -1,4 +1,4 @@
-# Minimal Django
+# Minimal Django project 
 A "Hello World" for Django...Because Django can be nearly as simple as Flask.
 
 The aim of this repository is to highlight the fact that a Django project, when simplified down to the bare essentials, can be nearly as minimal as a micro-framework application. 
